@@ -1,12 +1,12 @@
-# CPU Implementation
+# P4 Implementation
 
-### 
+
 
 ### Descriptions
 
 - `OPSketch.p4` is the data plane code. 
 
-- `init_table.py` is the control plane code
+- `init_table.py` is the control plane code.
 
   
 
